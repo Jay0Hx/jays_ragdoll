@@ -1,2 +1,3 @@
-# jays_ragdoll
-Super simple ragdoll script, please stop using threads for this stuff people.
+This is literally the most simple thing in the world
+
+If you are going to use this, please, for the love of god, take the code OUT of the client file and put it into one of your resources.
